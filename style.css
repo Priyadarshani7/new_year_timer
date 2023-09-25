@@ -1,0 +1,11 @@
+.head{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.countdown{
+    display: flex;
+gap: 40px;
+align-items: center;
+justify-content: center;
+}
